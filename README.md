@@ -3,6 +3,8 @@
 ![](https://komarev.com/ghpvc/?username=andrei-micuda&label=views&color=5390d9)
 ![](https://img.shields.io/github/followers/andrei-micuda?color=9cf)
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=andrei-micuda&theme=dark)](https://git.io/streak-stats)
+
 <!--
 **andrei-micuda/andrei-micuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
