@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![](https://komarev.com/ghpvc/?username=andrei-micuda&label=views&color=5390d9)
+![](https://img.shields.io/github/followers/andrei-micuda?color=9cf)
+
 <!--
 **andrei-micuda/andrei-micuda** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
